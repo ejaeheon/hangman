@@ -1,3 +1,3 @@
 # milestone 2, task 1
-fruit_list = ["Apple", "Banana", "Pear", "Grape", "Melon"]
-print(fruit_list)
+word_list = ["Apple", "Banana", "Pear", "Grape", "Melon"]
+print(word_list)
