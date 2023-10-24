@@ -14,6 +14,12 @@ This focuses ensuring inputs are valid in this case. However the tasks were most
 ### Milestone 3
 This was more python focused adding methods to ensure the input of the letter guessing was valid and an answer was returned based on conditions to check if the letter guess was in the fruits chosen at random.
 
+### Milestone 4
+Adds more functionality following the milestone 4 tasks, looking at adding a hangman class with initialisations and using self to create a more structured game.
+
+### Milestone 5
+Added full functionality to the game of hangman of a list of fruits, including a function to run the game.
+
 ## Installation instructions
 
 ## Usage instructions
